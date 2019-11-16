@@ -5,9 +5,13 @@ nothing special at all but, I thought it would be fun to send it your way.
 
 version = 0.1
 
-# System Dependencies for the software:
+# System dependencies for the software:
 
-pip install virtualenv
+[Python](https://www.python.org/downloads/)
+
+# Python dependencies for the software:
+
+Virtual Enviroment -- use command: pip install virtualenv
 
 # Installation process:
 
