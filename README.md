@@ -1,4 +1,4 @@
-# A Django based word counting application
+#A Django based word counting application
 
 Hey Miracle I thought you would like some software by yours truly. Its really
 nothing special at all but, I thought it would be fun to send it your way.
